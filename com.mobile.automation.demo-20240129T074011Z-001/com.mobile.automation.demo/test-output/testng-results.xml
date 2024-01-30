@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17147" started-at="2021-08-29T09:13:33Z" finished-at="2021-08-29T09:13:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17147" started-at="2021-08-29T09:13:33Z" finished-at="2021-08-29T09:13:50Z">
+      <class name="testCases.onBoardingTest">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="beforeSuite" is-config="true" duration-ms="156" started-at="2021-08-29T14:43:32Z" finished-at="2021-08-29T14:43:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f80945f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClasss()[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="beforeClasss" is-config="true" duration-ms="7606" started-at="2021-08-29T14:43:33Z" finished-at="2021-08-29T14:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClasss -->
+        <test-method status="PASS" signature="onboardFlowing()[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="onboardFlowing" duration-ms="1537" started-at="2021-08-29T14:43:40Z" finished-at="2021-08-29T14:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onboardFlowing -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-29T14:43:40Z" finished-at="2021-08-29T14:43:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.onBoardingTest.onboardFlowing()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="afterMethod" is-config="true" duration-ms="1766" started-at="2021-08-29T14:43:42Z" finished-at="2021-08-29T14:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=onboardFlowing status=SUCCESS method=onBoardingTest.onboardFlowing()[pri:0, instance:testCases.onBoardingTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="onboardFlow()[pri:1, instance:testCases.onBoardingTest@20398b7c]" name="onboardFlow" duration-ms="4607" started-at="2021-08-29T14:43:43Z" finished-at="2021-08-29T14:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onboardFlow -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-29T14:43:43Z" finished-at="2021-08-29T14:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.onBoardingTest.onboardFlow()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="afterMethod" is-config="true" duration-ms="1523" started-at="2021-08-29T14:43:48Z" finished-at="2021-08-29T14:43:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=onboardFlow status=SUCCESS method=onBoardingTest.onboardFlow()[pri:1, instance:testCases.onBoardingTest@20398b7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClassRun()[pri:0, instance:testCases.onBoardingTest@20398b7c]" name="afterClassRun" is-config="true" duration-ms="97" started-at="2021-08-29T14:43:50Z" finished-at="2021-08-29T14:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassRun -->
+      </class> <!-- testCases.onBoardingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

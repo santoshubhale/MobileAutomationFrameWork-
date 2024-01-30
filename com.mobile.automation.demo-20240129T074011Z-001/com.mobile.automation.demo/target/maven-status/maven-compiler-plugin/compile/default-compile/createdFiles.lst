@@ -1,0 +1,5 @@
+com\generic\PropertyReader.class
+pageObjects\onBoardingPage.class
+com\generic\ScreenShot.class
+com\generic\BaseClass.class
+com\generic\ExtentReport.class

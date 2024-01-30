@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-26T15:19:23 IST" name="Default suite" finished-at="2024-01-26T15:19:59 IST" duration-ms="35920">
+    <groups>
+    </groups>
+    <test started-at="2024-01-26T15:19:23 IST" name="Default test" finished-at="2024-01-26T15:19:59 IST" duration-ms="35920">
+      <class name="com.filpkart.MobileAutomatio.emulatorDemo">
+        <test-method is-config="true" signature="desiredCapabilities()[pri:0, instance:com.filpkart.MobileAutomatio.emulatorDemo@6bbe85a8]" started-at="2024-01-26T15:19:23 IST" name="desiredCapabilities" finished-at="2024-01-26T15:19:42 IST" duration-ms="19266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desiredCapabilities -->
+        <test-method signature="simpleTest()[pri:0, instance:com.filpkart.MobileAutomatio.emulatorDemo@6bbe85a8]" started-at="2024-01-26T15:19:42 IST" name="simpleTest" finished-at="2024-01-26T15:19:58 IST" duration-ms="15907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTest -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.filpkart.MobileAutomatio.emulatorDemo@6bbe85a8]" started-at="2024-01-26T15:19:58 IST" name="quitDriver" finished-at="2024-01-26T15:19:59 IST" duration-ms="672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.filpkart.MobileAutomatio.emulatorDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

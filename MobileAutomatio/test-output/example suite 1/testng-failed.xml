@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [example suite 1]">
+  <test thread-count="5" name="Regression suite 1(failed)">
+    <classes>
+      <class name="com.filpkart.MobileAutomatio.fullResetDemo">
+        <methods>
+          <include name="quitDriver"/>
+          <include name="desiredCapabilities"/>
+          <include name="simpleTest"/>
+        </methods>
+      </class> <!-- com.filpkart.MobileAutomatio.fullResetDemo -->
+    </classes>
+  </test> <!-- Regression suite 1(failed) -->
+</suite> <!-- Failed suite [example suite 1] -->
